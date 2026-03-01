@@ -24,7 +24,6 @@ blueprint:
         entity:
           domain: sensor
           device_class: power
-          unit_of_measurement: W
     min_current:
       name: Minimum Current (A)
       description: Minimum charging current (usually 6A).
