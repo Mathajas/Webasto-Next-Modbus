@@ -15,7 +15,6 @@ blueprint:
       selector:
         entity:
           domain: number
-          device_class: current
     grid_sensor:
       name: Grid Power Sensor (Watts)
       description: >-
